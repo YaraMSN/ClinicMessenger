@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YaraTryingSwing:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="YaraTryingSwing.jar">
+      <element id="module-output" name="YaraTryingSwing" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/gson-2.2.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
